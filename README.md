@@ -1,7 +1,4 @@
 
-<div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
-</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=100&color=4EAC52&center=true&vCenter=true&width=435&lines=Hello+!+Welcome+to+my+Profile+&#128519" >
 </p>
